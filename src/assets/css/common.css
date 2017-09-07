@@ -1,0 +1,18 @@
+.btn{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  color:#fff;
+}
+.btn-green{
+  background-color:#55cbc4;
+}
+.btn-red{
+  background-color:#E64340;
+}
+.btn-large{
+  width:100%;
+  height:46px;
+  border-radius:5px;
+  font-size:18px;
+}
